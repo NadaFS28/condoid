@@ -1,0 +1,6 @@
+{
+  "name": "CONDO IDE",
+  "description": "Write. Run. Build. Create. A full-featured open-source web IDE for Python and Python Indonesia (PyID) with real CPython runtime, debugger, Git, and terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
